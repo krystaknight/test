@@ -32,7 +32,7 @@ Some useful tips to help you get started:
 5. Move js to the bottom of the html page.
 6. Minified perfmatter.js
 
-##Optimizations to main.js
+## Optimizations to main.js
 1. Change number of pizza created from 200 to 25.
 2. Move scrollTop outside of for loop in updatePositions.
 
@@ -41,6 +41,6 @@ Some useful tips to help you get started:
 3. remove newSize() and just add switch to determineDx.
 4. Move pizzasDiv outside of for loop.
 
-##Optimizations for pizza.html
+## Optimizations for pizza.html
 1. Minified all CSS.
 2. Declare viewport and utf encoding.
