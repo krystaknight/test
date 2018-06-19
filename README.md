@@ -33,11 +33,11 @@ Some useful tips to help you get started:
 6. Minified perfmatter.js
 
 ## Optimizations to main.js
-1. Change number of pizza created from 200 to 25.
+1. Dynamically calulate number of pizzas needed to fill the screen.
 2. Move scrollTop outside of for loop in updatePositions.
 
 1. Update sizeSwitcher to use percentages.
-2. Move windowWidth from determineDx to changePizzaSizes so it's only calculated once.
+2. Move windowWidth, dx and newWidth, so it's only calculated once.
 3. remove newSize() and just add switch to determineDx.
 4. Move pizzasDiv outside of for loop.
 
